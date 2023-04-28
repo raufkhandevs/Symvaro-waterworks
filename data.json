@@ -1,0 +1,20 @@
+{
+    "create": {
+        "customer_id": 2,
+        "location": "80 North Road",
+        "meter_number": "DCSDdsasrefr",
+        "meter_readings": [
+            {
+                "source_id": 1,
+                "date": "2023:01:12 10:01:1",
+                "reading": 21
+            },
+            {
+                "source_id": 2,
+                "date": "2022:0:12 10:01:1",
+                "reading": 16
+            }
+        ],
+        "attachments": null
+    }
+}
